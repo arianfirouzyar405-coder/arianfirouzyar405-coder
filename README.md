@@ -23,7 +23,7 @@ I'm a **software engineering student** based in Istanbul
 
 - Improving my **C++** and **Python** fundamentals
 - Building more **practical tools** 
-- Preparing for **English exams** (TOEFL) and future **scholarship / study abroad** opportunities
+- Preparing for **English exams** and future **scholarship / study abroad** opportunities
 - Learning the basics of:
   - Data structures & algorithms  
   - AI / machine learning foundations  
